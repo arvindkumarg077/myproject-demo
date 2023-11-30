@@ -1,4 +1,4 @@
-# myfirstproject-demo
-This is my first Git Reposatory 
+# my_project-demo
+This is my first Git Repository 
 <br>
 Author Arvind Gupta
